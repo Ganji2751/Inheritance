@@ -40,7 +40,7 @@ class Employee extends Person
 }
 //Test Employee Class (Main class)
 
-class TestEmployeeP2
+class P2TestEmployee
 {
 	public static void main(String args[])
 	{
